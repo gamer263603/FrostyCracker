@@ -57,13 +57,7 @@ put steps in one markdown bro, i see you are seperating i just want to copyonce
 Here's the complete README in one single markdown block:
 
 ```
-
-
-# Aircrack-ng GUI Tool
-
-A professional graphical user interface for the aircrack-ng wireless network auditing suite.
-
-**Created by: CodeWithTed**
+**Created by: CodeWithTed😊**
 
 ## Complete Installation & Usage Guide
 
